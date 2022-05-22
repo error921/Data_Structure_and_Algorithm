@@ -1,2 +1,2 @@
 # Data_Structure_and_Algorithm
-Here i learn all the important data structures and their implementaion
+Here i learned  all the important data structures and their implementaion
